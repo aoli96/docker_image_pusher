@@ -1,1 +1,2 @@
 sanjusss/aliyun-ddns
+nyanmisaka/jellyfin
